@@ -13,3 +13,7 @@
 - Navigate to root dir and run the following:
 
         behave feature/
+
+## Test Output
+
+![](behave.png)
